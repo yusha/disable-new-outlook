@@ -1,5 +1,5 @@
 # disable-new-outlook
-Disable New Outlook and Keep using the Classic Outlook
+Disable New Outlook and Keep using the Classic Outlook on Windows 11
 
 This program disables the New Outlook from the registries. To run this program you must have administrator rights. Also, if you see this message while running the program then that means you need to run the program as admin and the registry values won't be added.
 
